@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Define the output CSV file name sahil
+# Define the output CSV file name 
 OUTPUT_FILE="sqs_queue_details_prodvir.csv"
 
 # Define the AWS profile and region
